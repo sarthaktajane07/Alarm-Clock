@@ -16,13 +16,13 @@ Welcome to the **Python Alarm Clock** project! 🎉 This is a simple and easy-to
 - 🎨 Easy-to-use interface (optional based on your UI design).
 - 🔊 Play a sound when the alarm rings.
 - 🕒 Schedule multiple alarms.
+- 🌗 Dark/Light mode switch.
+- 🧩 Wake-up puzzle to disable the alarm.
+- ⏳ Snooze functionality.
 
----
-
-## ⚙️ Requirements:
+  ## ⚙️ Requirements:
 To run this project, you'll need the following Python libraries:
 
 - 🖥️ `tkinter` (for GUI, if applicable)
 - 📅 `schedule` (for scheduling alarms)
 - 🔊 `playsound` (to play sound when the alarm goes off)
-
