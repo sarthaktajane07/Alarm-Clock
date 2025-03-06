@@ -4,6 +4,12 @@ Welcome to the **Python Alarm Clock** project! 🎉 This is a simple and easy-to
 
 ---
 
+## 🖼️ Screenshot
+<img width="1470" alt="Screenshot 2025-03-06 at 4 20 35 PM" src="https://github.com/user-attachments/assets/a696322d-c233-41e2-ae32-dcd2308ae5db" />
+
+
+---
+
 ## 🚀 Features:
 - ⏰ Set an alarm for a specific time.
 - 🔔 Receive notifications when the alarm goes off.
@@ -19,3 +25,4 @@ To run this project, you'll need the following Python libraries:
 - 🖥️ `tkinter` (for GUI, if applicable)
 - 📅 `schedule` (for scheduling alarms)
 - 🔊 `playsound` (to play sound when the alarm goes off)
+
